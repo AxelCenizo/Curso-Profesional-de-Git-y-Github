@@ -1,1 +1,3 @@
 No me gustó lo que escribí entonces borré todo y escribí esto xd
+
+archivo temporal no debería estar en el mismo commit que en este.
