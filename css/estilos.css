@@ -11,11 +11,19 @@ body {
 #container {
     text-align: left;
     width: 70%;
-    padding: 1em;
     border: 1px solid #444;
     margin: 0 auto;
 }
 
 p {
-    color: rgb(167, 83, 128)
+    color: rgb(167, 83, 128);
+    margin: 1em auto;
+}
+
+#cabecera {
+    color: white;
+    background-color: purple;
+    font-weight: bold;
+    padding: 0.5em;
+    margin: 0;
 }
