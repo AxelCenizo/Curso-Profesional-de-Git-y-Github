@@ -15,3 +15,7 @@ body {
     border: 1px solid #444;
     margin: 0 auto;
 }
+
+p {
+    color: rgb(167, 83, 128)
+}
