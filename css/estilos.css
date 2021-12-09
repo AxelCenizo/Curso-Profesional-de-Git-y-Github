@@ -2,4 +2,16 @@ body {
     font-family: 'Arial';
     color: deeppink;
     text-align: center;
+    background-color: #222;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    text-align: left;
+    width: 70%;
+    padding: 1em;
+    border: 1px solid #444;
+    margin: 0 auto;
 }
