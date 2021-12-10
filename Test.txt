@@ -1,1 +1,2 @@
 EstofueescritodesdeGitHubxd
+Y esto fue escrito desde WSL 
