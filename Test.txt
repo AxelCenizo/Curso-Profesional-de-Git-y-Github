@@ -3,3 +3,4 @@ Y esto fue escrito desde WSL
 Esto fue escrito para probar el Pull Request
 Esto fue escrito luego de cambiar el directorio del repositorio local
 Esto fue escrito para ver si efectivamente el archivo es ignorado por el .gitignore
+Okay pero esta vez sin hacer commite -am al mismo tiempo que agrego el .gitignore xd, oh debería estar untracked para ser ignorado xd
