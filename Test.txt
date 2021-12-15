@@ -6,3 +6,5 @@ Esto fue escrito para ver si efectivamente el archivo es ignorado por el .gitign
 Okay pero esta vez sin hacer commite -am al mismo tiempo que agrego el .gitignore xd, oh debería estar untracked para ser ignorado xd
 
 Experimento 1
+
+Experimento 2
